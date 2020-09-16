@@ -1,0 +1,4 @@
+[submodule "7x50_protobufs"]
+	path = 7x50_protobufs
+	url = https://github.com/nokia/7x50_protobufs/
+	branch = master
